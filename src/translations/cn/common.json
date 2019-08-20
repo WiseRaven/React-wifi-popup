@@ -1,0 +1,38 @@
+{
+    "welcome": {
+        "title": "我们很高兴欢迎您来到AZIMUT Hotels连锁酒店",
+        "title-span": ""
+    },
+    "wifi-text": {
+        "title": "免费WiFi:",
+        "wifi-resident": "为酒店客人",
+        "wifi-visitor": "为酒店访客"
+    },
+    "tab-text": {
+        "title-resident": "俄罗斯联邦的立法要求识别互联网用户。为了上互联网，请输入客人卡上显示的信息。",
+        "title-visitor-1": "俄罗斯联邦的立法要求识别互联网用户。为了上互联网，请输入客人卡上显示的信息。",
+        "title-visitor-2": "获得访问权限，免费打电话本地号码： ",
+        "title-visitor-3": "+7 (926) 123-45-67",
+        "title-visitor-4": "",
+        "title-visitor-5": ""
+    },
+    "input": {
+        "name": "您贵姓",
+        "number": "房号"
+    },
+    "button": {
+        "text-resident": "连接WiFi",
+        "text-visitor": "打电话"
+    },
+    "checkbox": {
+        "main-text": "我同意这些条款:",
+        "text-resident": " 通过发送表格，我同意根据条件处理我的 ",
+        "text-visitor": " 打电话后，互联网访问将提供的。通过打电话，我同意根据条件处理我的 ",
+        "link": "个人资料。"
+    },
+    "errors": {
+        "checkbox": "请单击对号并同意处理个人数据。",
+        "fields": "您输入的数据不正确。请检查。",
+        "server": "抱歉，服务器错误发生。尝试再次注册。"
+    }
+}

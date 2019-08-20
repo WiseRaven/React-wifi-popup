@@ -1,0 +1,38 @@
+{
+    "welcome": {
+        "title": "Willkommen bei AZIMUT Netzwerk",
+        "title-span": ""
+    },
+    "wifi-text": {
+        "title": "Kostenloses WLAN:",
+        "wifi-resident": "für Hotelgäste",
+        "wifi-visitor": "für alle"
+    },
+    "tab-text": {
+        "title-resident": "Rechtsnormen der Russischen Föderation verlangen die Identifizierung der Internetnutzer. Geben Sie für die Verbindung zum Internet die Angaben von Ihrer Gästekarte ein.",
+        "title-visitor-1": "Rechtsnormen der Russischen Föderation verlangen die Identifizierung der Internetnutzer.",
+        "title-visitor-2": "Für den Internetzugang rufen Sie gebührenfrei an lokale Telefonnummer ",
+        "title-visitor-3": "+7 (926) 123-45-67",
+        "title-visitor-4": "",
+        "title-visitor-5": ""
+    },
+    "input": {
+        "name": "Nachname",
+        "number": "Zimmernummer"
+    },
+    "button": {
+        "text-resident": "WLAN Verbindung herstellen",
+        "text-visitor": "Anrufen"
+    },
+    "checkbox": {
+        "main-text": "Ich stimme den Bedingungen zu:",
+        "text-resident": " Mit Übermittlung dieses Formulars genehmige ich die Verarbeitung meiner persönlichen Daten. ",
+        "text-visitor": " Den Internetzugang wird nach dem Anruf zur Verfügung gestellt. Wenn Sie einen Anruf tätigen, stimmen Sie der Verarbeitung Ihrer persönlichen Daten ",
+        "link": "gemäß den Bedingungen zu."
+    },
+    "errors": {
+        "checkbox": "Bitte anklicken und Ihre Einwilligung in die Verarbeitung personenbezogener Daten bestätigen.",
+        "fields": "Sie haben ungültige Daten eingegeben. Bitte überprüfen.",
+        "server": "Leider ist auf dem Server ein Fehler aufgetreten. Versuchen Sie sich erneut zu registrieren."
+    }
+}

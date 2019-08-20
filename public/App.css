@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Littera Text';
+    src: url('fonts/LitteraTextBold.eot');
+    src: url('fonts/LitteraTextBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/LitteraTextBold.woff2') format('woff2'),
+        url('fonts/LitteraTextBold.woff') format('woff'),
+        url('fonts/LitteraTextBold.ttf') format('truetype'),
+        url('fonts/LitteraTextBold.svg#LitteraTextBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Littera Text Book';
+    src: url('fonts/LitteraTextBook.eot');
+    src: url('fonts/LitteraTextBook.eot?#iefix') format('embedded-opentype'),
+        url('fonts/LitteraTextBook.woff2') format('woff2'),
+        url('fonts/LitteraTextBook.woff') format('woff'),
+        url('fonts/LitteraTextBook.ttf') format('truetype'),
+        url('fonts/LitteraTextBook.svg#LitteraTextBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Littera Text';
+    src: url('fonts/LitteraTextRegular.eot');
+    src: url('fonts/LitteraTextRegular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/LitteraTextRegular.woff2') format('woff2'),
+        url('fonts/LitteraTextRegular.woff') format('woff'),
+        url('fonts/LitteraTextRegular.ttf') format('truetype'),
+        url('fonts/LitteraTextRegular.svg#LitteraTextRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background: url(img/bg.jpg) no-repeat 0 0/cover;
+}

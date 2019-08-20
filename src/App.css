@@ -1,0 +1,92 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  font-family: 'Littera Text';
+}
+input{
+  box-sizing: border-box;
+}
+p{
+  margin: 0;
+  padding: 0;
+}
+img {
+  border: none;
+}
+h1 {
+  font-size: 36px;
+  font-family: "Littera Text";
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  line-height: 2;
+  text-align: center;
+}
+li {
+  list-style: none;
+}
+article {
+  margin: 0 auto;
+  max-width: 820px;
+}
+label {
+  margin-left: 5px;
+}
+form {
+  margin-top: 30px;
+}
+.App .react-tel-input {
+  display: inline-block;
+  width: 29%;
+}
+.App .react-tel-input input[type=tel], .App .react-tel-input input[type=text] {
+  line-height: unset;
+  width: 100%;
+  height: auto;
+  border: 1px solid #b7b7b7;
+  padding: 8px 8px 8px 45px;
+  outline: none;
+  font-size: 18px;
+  background: #fff;
+  font-family: Littera Text;
+  border-radius: 5px;
+  line-height: 100%;
+}
+
+.App .react-tel-input .flag-dropdown,
+.App .react-tel-input .flag-dropdown.open-dropdown,
+.App .react-tel-input .flag-dropdown.open-dropdown .selected-flag {
+    background: #fff;
+    border-radius: 5px 0 0 5px;
+    border-color: #b7b7b7;
+    border-right: none;
+}
+
+.App .react-tel-input .flag-dropdown,
+.App .react-tel-input .flag-dropdown.open-dropdown{
+    height: 38px;
+}
+
+@media screen and (max-width: 900px) {
+  h1 {
+    margin-top: 215px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  body{
+    background: #fff;
+  }
+  h1 {
+    font-size: 28px;
+    padding: 0 15px;
+    line-height: 1;
+    margin-top: 30px;
+  }
+  form {
+    margin-top: 10px;
+  }
+  .App .react-tel-input {
+    width: 100%;
+  }
+}

@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Littera Text';
+    src: url('LitteraTextBold.eot');
+    src: url('LitteraTextBold.eot?#iefix') format('embedded-opentype'),
+        url('LitteraTextBold.woff2') format('woff2'),
+        url('LitteraTextBold.woff') format('woff'),
+        url('LitteraTextBold.ttf') format('truetype'),
+        url('LitteraTextBold.svg#LitteraTextBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Littera Text Book';
+    src: url('LitteraTextBook.eot');
+    src: url('LitteraTextBook.eot?#iefix') format('embedded-opentype'),
+        url('LitteraTextBook.woff2') format('woff2'),
+        url('LitteraTextBook.woff') format('woff'),
+        url('LitteraTextBook.ttf') format('truetype'),
+        url('LitteraTextBook.svg#LitteraTextBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Littera Text';
+    src: url('LitteraTextRegular.eot');
+    src: url('LitteraTextRegular.eot?#iefix') format('embedded-opentype'),
+        url('LitteraTextRegular.woff2') format('woff2'),
+        url('LitteraTextRegular.woff') format('woff'),
+        url('LitteraTextRegular.ttf') format('truetype'),
+        url('LitteraTextRegular.svg#LitteraTextRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

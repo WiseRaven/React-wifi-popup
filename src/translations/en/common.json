@@ -1,0 +1,38 @@
+{
+    "welcome": {
+        "title": "Welcome to AZIMUT Hotels network",
+        "title-span": ""
+    },
+    "wifi-text": {
+        "title": "Free WiFi:",
+        "wifi-resident": "for hotel guests",
+        "wifi-visitor": "for all hotel visitors"
+    },
+    "tab-text": {
+        "title-resident": "The legislation of the Russian Federation requires the identification of Internet users. To get the access to the Internet, enter your data specified on the guest card.",
+        "title-visitor-1": "The legislation of the Russian Federation requires the identification of Internet users.",
+        "title-visitor-2": "To get the WiFi access, call to the local number ",
+        "title-visitor-3": "+7 (926) 123-45-67 (free)",
+        "title-visitor-4": "",
+        "title-visitor-5": ""
+    },
+    "input": {
+        "name": "Your name",
+        "number": "Room number"
+    },
+    "button": {
+        "text-resident": "Establish a WiFi connection",
+        "text-visitor": "Call"
+    },
+    "checkbox": {
+        "main-text": "I agree with the conditions:",
+        "text-resident": " Submitting the form, I agree to the processing of my personal data ",
+        "text-visitor": " Internet access will be provided after the call. Making a call, I agree to the processing of my personal data, ",
+        "link": "according to the conditions."
+    },
+    "errors": {
+        "checkbox": "Please tick and give your consent to the personal data processing.",
+        "fields": "You have entered incorrect data. Please check.",
+        "server": "Unfortunately, an error occurred on the server. Try to register again."
+    }
+}
